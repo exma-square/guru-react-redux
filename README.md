@@ -6,6 +6,8 @@
  * [react official website](https://facebook.github.io/react/)
 
 ## redux
+
+ * [redux 簡介](http://huli.logdown.com/posts/294037-javascript-redux-basic-tutorial)
  * [redux basic](http://rhadow.github.io/2015/07/30/beginner-redux/)
  * [redux official github reps](https://github.com/reactjs/redux)
  
